@@ -17,7 +17,6 @@ class Gene:
         self.size = len(data['data'])
 
 class GA:
-# 遗传算法的类
     def __init__(self, parameter):
         self.parameter = parameter
 
