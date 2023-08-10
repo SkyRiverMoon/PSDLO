@@ -15,6 +15,4 @@
 6. Data distribution.py can display the distribution, maximum, and minimum of the data set.
 
 Overall workflow of iterative evolution of PSDLO method. Icons represent different components: the function graph symbolizes the NN, the gene icon represents the GA, and the atom icon denotes physics.
-<div align=center>
-![image](https://github.com/SkyRiverMoon/PSDLO/blob/main/Figure/3.png)
-</div>
+![image](https://github.com/SkyRiverMoon/PSDLO/blob/main/Figure/3.png#pic_center)
