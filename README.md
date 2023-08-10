@@ -1,6 +1,5 @@
 ![image](https://github.com/SkyRiverMoon/PSDLO/blob/main/Figure/1.png)
 # Physics-supervised Deep Learning–based Optimization (PSDLO) with Accuracy and Efficiency
-
 ![image](https://github.com/SkyRiverMoon/PSDLO/blob/main/Figure/2.png)
 
 1. PSDLO_GA.py and PSDLO_PSO.py are the main codes for the PSDLO, based on Genetic Algorithm (GA) and Particle Swarm Optimization (PSO), respectively.
