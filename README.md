@@ -13,3 +13,6 @@
 5. Data.csv contains the training and testing sets. In the main PSDLO code, the test set is randomly selected, comprising 10% of the total points.
 
 6. Data distribution.py can display the distribution, maximum, and minimum of the data set.
+
+Overall workflow of iterative evolution of PSDLO method. Icons represent different components: the function graph symbolizes the NN, the gene icon represents the GA, and the atom icon denotes physics.
+![image](https://github.com/SkyRiverMoon/PSDLO/blob/main/Figure/3.png)
